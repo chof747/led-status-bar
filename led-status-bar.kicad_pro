@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template-project.kicad_pro",
+    "filename": "led-status-bar.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -379,10 +379,8 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+3V3",
-          "/PWR",
-          "/PWR_FUSED",
-          "GND"
+          "GND",
+          "VSS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
