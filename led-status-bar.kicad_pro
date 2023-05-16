@@ -464,6 +464,10 @@
       {
         "netclass": "Power",
         "pattern": "VSS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VDD"
       }
     ]
   },
